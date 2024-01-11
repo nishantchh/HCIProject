@@ -1,0 +1,44 @@
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.exe
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.deps.json
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.runtimeconfig.json
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.dll
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.pdb
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Form1.resources
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Resources.resources
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.vbproj.GenerateResource.cache
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.AssemblyInfoInputs.cache
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.AssemblyInfo.vb
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.vbproj.CoreCompileInputs.cache
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.dll
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\refint\HCI-Nishant.dll
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.pdb
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.genruntimeconfig.cache
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\ref\HCI-Nishant.dll
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.dashboard.resources
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Studentdashboard.resources
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Form2.resources
+C:\Users\devko\source\repos\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Vehicle.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.exe
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.deps.json
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.runtimeconfig.json
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.dll
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\bin\Debug\net6.0-windows\HCI-Nishant.pdb
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.dashboard.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Form1.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Form2.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Resources.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Studentdashboard.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Vehicle.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.vbproj.GenerateResource.cache
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.AssemblyInfoInputs.cache
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.AssemblyInfo.vb
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.vbproj.CoreCompileInputs.cache
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.dll
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\refint\HCI-Nishant.dll
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.pdb
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI-Nishant.genruntimeconfig.cache
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\ref\HCI-Nishant.dll
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Course.resources
+C:\Users\CHH22186717\OneDrive - University College Birmingham\CSc MSc\Assignments - 1st Sem\HCI\HCI-Nishant\HCI-Nishant\obj\Debug\net6.0-windows\HCI_Nishant.Login.resources
